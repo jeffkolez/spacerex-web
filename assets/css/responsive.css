@@ -1,0 +1,328 @@
+
+@media screen and (max-width: 1600px) {
+    .hero-transparent-wrap {
+        width: 1330px;
+    }
+    .globe-1 {
+        right: 15px;
+        width: 470px;
+    }
+    .globe-2 {
+        left: 130px;
+        width: 330px;
+        bottom: 240px;
+    }
+    .story-slider-wrapper {
+        padding-right: 65px;
+    }
+    .roadmap-step {
+        padding-left: 100px;
+    }
+
+    
+}
+
+
+
+@media screen and (max-width: 1499px) {
+    .hero-transparent-wrap {
+        width: 1150px;
+    }
+    .globe-1 {
+        right: -5px;
+        width: 420px;
+        bottom: 180px;
+    }
+    .globe-2 {
+        left: 80px;
+        width: 318px;
+        bottom: 185px;
+    }
+    .benefit-g-wrapper {
+        grid-gap: 60px;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 1300px) {
+    .rd-three .rd-blk-img {
+        width: 205px;
+        top: -70px;
+        right: -50px;
+    }
+    .rd-four .rd-blk-img {
+        width: 220px;
+        top: -70px;
+        right: -50px;
+    }
+    .rd-two .rd-blk-img {
+        width: 198px;
+        top: -55px;
+        right: -50px;
+    }
+    .rd-one .rd-blk-img {
+        width: 230px;
+        right: -45px;
+        bottom: 0;
+    }
+
+
+
+}
+@media screen and (max-width: 1199px) {
+    .hero-transparent-wrap {
+        width: 1040px;
+    }
+    .globe-1 {
+        right: 10px;
+        width: 380px;
+        bottom: 165px;
+    }
+    .globe-2 {
+        left: 80px;
+    }
+    .story-slider-wrapper {
+        padding-right: 45px;
+        padding-left: 45px;
+    }
+    .story-content-wrapper .primary-title {
+        margin-bottom: 30px;
+    }
+    .social-btns {
+        margin-top: 35px;
+    }
+    .social-links {
+        margin-right: 34px;
+    }
+    .social-links a img {
+        width: 30px;
+    }
+    .header-area {
+        padding: 30px 0;
+    }
+    .member-thumb img {
+        height: 280px;
+    }
+    .benefit-g-wrapper {
+        grid-gap: 30px;
+    }
+.rd-one .rd-blk-img {
+	right: -15px;
+}
+.rd-three .rd-blk-img {
+	right: -15px;
+	width: 180px;
+}
+.rd-four .rd-blk-img {
+	right: -15px;
+	width: 200px;
+}
+    .roadmap-area .section-title {
+        margin-bottom: 100px;
+    }
+    .roadmap-area {
+        padding-bottom: 95px;
+    }
+    .slick-crud-btns {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .rd-two .rd-blk-img {
+        width: 170px;
+        top: -55px;
+        right: -15px;
+    }
+
+
+}
+
+@media screen and (max-width: 991px) {
+    .story-area {
+        padding-top: 70px;
+        padding-bottom: 65px;
+    }
+    .story-content-wrapper {
+        max-width: 100%;
+        margin-bottom: 45px;
+    }
+    .story-area, .roadmap-area, .benefit-area, .faq-area, .team-area {
+        padding: 70px 0;
+        padding-bottom: 85px;
+    }
+    .roadmap-step {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 110px;
+        padding-left: 60px;
+        padding-right: 80px;
+    }
+    .roadmap-step-inner {
+        max-width: 100%;
+    }
+    .roadmap-step.mt-s {
+        margin-top: 0;
+    }
+    .roadmap-step.position-relative.rd-two {
+        margin-bottom: 190px;
+    }
+    .section-title.type-2 h1 span {
+        font-size: 74px;
+    }
+    .section-title {
+        margin-bottom: 48px;
+    }
+    .member-thumb img {
+        height: auto;
+        min-height: 342px;
+    }
+    .single-member {
+        margin-bottom: 50px;
+    }
+    .team-area {
+        padding-bottom: 20px;
+    }
+    .roadmap-area .section-title {
+        margin-bottom: 80px;
+    }
+    .story-slider-wrapper {
+        padding-right: 80px;
+        padding-left: 80px;
+    }
+    .slick-crud-btns {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+
+
+
+}
+
+@media screen and (max-width: 767px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .header-area {
+        padding: 15px 0;
+    }
+    .btn {
+        font-size: 15px;
+        padding: 10px 18px;
+    }
+    .hero-transparent-wrap {
+        width: 200%;
+    }
+    .globe-2 {
+        left: 100px;
+        width: 200px;
+        bottom: 116px;
+    }
+    .globe-1 {
+        right: 75px;
+        width: 265px;
+        bottom: 145px;
+    }
+    .primary-title {
+        font-size: 36px;
+    }
+    .story-area, .roadmap-area, .benefit-area, .faq-area, .team-area {
+        padding: 55px 0;
+        padding-bottom: 55px;
+    }
+    .story-slider-wrapper {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .section-title.type-1 .primary-title {
+        font-size: 30px;
+    }
+    .section-title.type-1 img {
+        width: 50px;
+        margin-bottom: 15px;
+    }
+    .roadmap-area .section-title {
+        margin-bottom: 110px;
+    }
+    .roadmap-step .rd-blk-img {
+        position: unset !important;
+        margin-bottom: 25px;
+        width: auto !important;
+        max-width: 180px !important;
+    }
+    .roadmap-step {
+        text-align: center;
+        width: 100%;
+        max-width: 100%;
+        padding-right: 0;
+        padding-left: 15px;
+        margin-bottom: 60px !important;
+    }
+    .roadmap-step::after {
+        content: none;
+    }
+    .roadmap-step-inner p {
+        max-width: 100%;
+    }
+    .roadmap-step-inner h4 {
+        font-size: 28px;
+        margin-bottom: 12px;
+        text-align: center;
+    }
+    .roadmap-area {
+        padding-bottom: 5px;
+    }
+    .section-title.type-2 h1 span {
+        font-size: 50px;
+    }
+    .section-title.type-2 h1 {
+        font-size: 22px;
+    }
+    .section-title {
+        margin-bottom: 40px;
+    }
+    .benefit-g-wrapper {
+        grid-template-columns: 1fr;
+    }
+    .faq-area .section-title {
+        margin-bottom: 15px;
+    }
+    .member-thumb img {
+        height: auto;
+        min-height: auto;
+    }
+    .team-area {
+        padding-bottom: 5px;
+    }
+    .footer-area {
+        padding-top: 55px;
+    }
+    .roadmap-area .section-title {
+        margin-bottom: 50px;
+    }
+    .slick-crud-btns {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .gallery-photo-title {
+        font-size: 17px;
+    }
+    .story-content-wrapper h4 {
+        font-size: 16px;
+    }
+    .b-content h4 {
+        font-size: 28px;
+    }
+
+    .b-icon img {
+        max-width: 80px;
+        max-height: 70px;
+    }
+    .step-name {
+        font-size: 24px;
+        margin-top: -13px;
+    }
+   
+}
